@@ -1,3 +1,17 @@
+- repo: homebrew
+  srcname: mdcat
+  visiblename: mdcat
+  version: 2.16.1
+  origversion: null
+  status: newest
+  summary: Show markdown documents on text terminals
+- repo: homebrew
+  srcname: mdcat
+  visiblename: mdcat
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Show markdown documents on text terminals
 - repo: alt_p11
   srcname: mdcat
   binnames:
@@ -73,20 +87,6 @@
     - dutra@freebsd.org
   categories:
     - sysutils
-- repo: homebrew
-  srcname: mdcat
-  visiblename: mdcat
-  version: 2.16.1
-  origversion: null
-  status: newest
-  summary: Show markdown documents on text terminals
-- repo: homebrew
-  srcname: mdcat
-  visiblename: mdcat
-  version: HEAD
-  origversion: null
-  status: rolling
-  summary: Show markdown documents on text terminals
 - repo: macports
   srcname: textproc/mdcat
   binname: mdcat
@@ -105,8 +105,8 @@
   srcname: mingw-w64-mdcat
   binname: mingw-w64-clang-x86_64-mdcat
   visiblename: mingw-w64-clang-x86_64-mdcat
-  version: 2.12.0
-  origversion: 2.12.0-1
+  version: 2.16.0
+  origversion: 2.16.0-1
   status: outdated
   summary: Fancy cat for Markdown (mingw-w64)
   licenses:
@@ -115,8 +115,8 @@
   srcname: mingw-w64-mdcat
   binname: mingw-w64-clang-aarch64-mdcat
   visiblename: mingw-w64-clang-aarch64-mdcat
-  version: 2.12.0
-  origversion: 2.12.0-1
+  version: 2.16.0
+  origversion: 2.16.0-1
   status: outdated
   summary: Fancy cat for Markdown (mingw-w64)
   licenses:
@@ -126,8 +126,8 @@
   srcname: mingw-w64-mdcat
   binname: mingw-w64-x86_64-mdcat
   visiblename: mingw-w64-x86_64-mdcat
-  version: 2.12.0
-  origversion: 2.12.0-1
+  version: 2.16.0
+  origversion: 2.16.0-1
   status: outdated
   summary: Fancy cat for Markdown (mingw-w64)
   licenses:
@@ -136,8 +136,8 @@
   srcname: mingw-w64-mdcat
   binname: mingw-w64-ucrt-x86_64-mdcat
   visiblename: mingw-w64-ucrt-x86_64-mdcat
-  version: 2.12.0
-  origversion: 2.12.0-1
+  version: 2.16.0
+  origversion: 2.16.0-1
   status: outdated
   summary: Fancy cat for Markdown (mingw-w64)
   licenses:
