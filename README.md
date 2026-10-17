@@ -40,7 +40,7 @@ Total: **5,006** lines of code across **40** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 2,410 · **Forks**: 104 · **Open issues**: 127 · **Contributors**: 22
+- **Stars**: 2,411 · **Forks**: 104 · **Open issues**: 127 · **Contributors**: 22
 
 ## Totals (cumulative)
 
@@ -50,12 +50,12 @@ Total: **5,006** lines of code across **40** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-16 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-17 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-18 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-19 | 0 | 0 | 0 | 0 | 0 | 1 |
-| 360d | 2025-10-21 | 0 | 0 | 0 | 0 | 0 | 1 |
-| last720d | 2024-10-26 | 5 | 8 | 0 | 12 | 0 | 61 |
+| 30d | 2026-09-17 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-18 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-19 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-20 | 0 | 0 | 0 | 0 | 0 | 1 |
+| 360d | 2025-10-22 | 0 | 0 | 0 | 0 | 0 | 1 |
+| last720d | 2024-10-27 | 5 | 8 | 0 | 12 | 0 | 61 |
 
 ## Release assets
 
@@ -74,4 +74,4 @@ Install metadata for mdcat lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261016.yml` · 2026-10-16T05:30:22Z._
+_Snapshot: `data/card/261017.yml` · 2026-10-17T05:18:30Z._
