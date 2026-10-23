@@ -50,12 +50,12 @@ Total: **5,006** lines of code across **40** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-23 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-24 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-25 | 0 | 0 | 0 | 0 | 0 | 1 |
-| 360d | 2025-10-27 | 0 | 0 | 0 | 0 | 0 | 1 |
-| last720d | 2024-11-01 | 5 | 8 | 0 | 11 | 0 | 61 |
+| 30d | 2026-09-23 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-24 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-25 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-26 | 0 | 0 | 0 | 0 | 0 | 1 |
+| 360d | 2025-10-28 | 0 | 0 | 0 | 0 | 0 | 1 |
+| last720d | 2024-11-02 | 5 | 8 | 0 | 11 | 0 | 61 |
 
 ## Release assets
 
@@ -64,6 +64,16 @@ Total: **5,006** lines of code across **40** files in the top 5 languages.
 | [B2SUMS.txt](https://github.com/swsnr/mdcat/releases/download/mdcat-2.7.1/B2SUMS.txt) | 343 B | `other` |
 | [mdcat-2.7.1-x86_64-pc-windows-msvc.zip](https://github.com/swsnr/mdcat/releases/download/mdcat-2.7.1/mdcat-2.7.1-x86_64-pc-windows-msvc.zip) | 4.1 MiB | `native/win/x64` |
 | [mdcat-2.7.1-x86_64-unknown-linux-gnu.tar.gz](https://github.com/swsnr/mdcat/releases/download/mdcat-2.7.1/mdcat-2.7.1-x86_64-unknown-linux-gnu.tar.gz) | 4.5 MiB | `native/linux/x64/glibc` |
+
+## Distribution status
+
+Reported by **22** distros on [repology.org](https://repology.org/project/mdcat). **10** are ✅ on the latest upstream release, **11** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `2.19.0` | ✅ latest |
+| Nix unstable | `2.19.0` | ✅ latest |
+| Void | `2.19.0` | ✅ latest |
 
 ## Improve this data
 
@@ -74,4 +84,4 @@ Install metadata for mdcat lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T05:42:02Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T05:46:24Z._
