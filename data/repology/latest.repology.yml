@@ -1,15 +1,12 @@
-- repo: aur
-  srcname: mdcat
-  binname: mdcat
+- repo: wikidata
+  srcname: Q107028412
   visiblename: mdcat
-  version: 2.19.0
-  origversion: 2.19.0-1
-  status: newest
-  summary: Sophisticated Markdown rendering for the terminal
-  maintainers:
-    - andreas_baumann@aur
+  version: 2.7.1
+  origversion: null
+  status: outdated
+  summary: cat for Markdown
   licenses:
-    - MPL-2.0
+    - Mozilla Public License, version 2.0
 - repo: msys2_clang64
   srcname: mingw-w64-mdcat
   binname: mingw-w64-clang-x86_64-mdcat
@@ -42,9 +39,9 @@
     - mdcat
     - mdcat-debuginfo
   visiblename: mdcat
-  version: 2.16.1
-  origversion: 2.16.1-alt1
-  status: outdated
+  version: 2.19.0
+  origversion: 2.19.0-alt1
+  status: newest
   summary: cat for markdown
   maintainers:
     - amakeenk@altlinux.org
@@ -52,6 +49,18 @@
     - MPL-2.0
   categories:
     - Text tools
+- repo: aur
+  srcname: mdcat
+  binname: mdcat
+  visiblename: mdcat
+  version: 2.19.0
+  origversion: 2.19.0-1
+  status: newest
+  summary: Sophisticated Markdown rendering for the terminal
+  maintainers:
+    - andreas_baumann@aur
+  licenses:
+    - MPL-2.0
 - repo: aur
   srcname: mdcat-bin
   binname: mdcat-bin
@@ -252,12 +261,3 @@
     - cinerea0@protonmail.com
   licenses:
     - MPL-2.0
-- repo: wikidata
-  srcname: Q107028412
-  visiblename: mdcat
-  version: 2.7.1
-  origversion: null
-  status: outdated
-  summary: cat for Markdown
-  licenses:
-    - Mozilla Public License, version 2.0
