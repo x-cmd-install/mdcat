@@ -1,22 +1,3 @@
-- repo: wikidata
-  srcname: Q107028412
-  visiblename: mdcat
-  version: 2.7.1
-  origversion: null
-  status: outdated
-  summary: cat for Markdown
-  licenses:
-    - Mozilla Public License, version 2.0
-- repo: msys2_clang64
-  srcname: mingw-w64-mdcat
-  binname: mingw-w64-clang-x86_64-mdcat
-  visiblename: mingw-w64-clang-x86_64-mdcat
-  version: 2.19.0
-  origversion: 2.19.0-1
-  status: newest
-  summary: Fancy cat for Markdown (mingw-w64)
-  licenses:
-    - spdx:MPL-2.0
 - repo: alt_p11
   srcname: mdcat
   binnames:
@@ -120,28 +101,16 @@
     - MPL-2
   categories:
     - textproc
-- repo: manjaro_stable
-  subrepo: extra
-  srcname: mdcat
-  binname: mdcat
-  visiblename: mdcat
-  version: 2.0.3
-  origversion: 2.0.3-1
-  status: outdated
-  summary: Sophisticated Markdown rendering for the terminal
+- repo: msys2_clang64
+  srcname: mingw-w64-mdcat
+  binname: mingw-w64-clang-x86_64-mdcat
+  visiblename: mingw-w64-clang-x86_64-mdcat
+  version: 2.19.0
+  origversion: 2.19.0-1
+  status: newest
+  summary: Fancy cat for Markdown (mingw-w64)
   licenses:
-    - MPL2
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: mdcat
-  binname: mdcat
-  visiblename: mdcat
-  version: 2.0.3
-  origversion: 2.0.3-1
-  status: outdated
-  summary: Sophisticated Markdown rendering for the terminal
-  licenses:
-    - MPL2
+    - spdx:MPL-2.0
 - repo: msys2_clangarm64
   srcname: mingw-w64-mdcat
   binname: mingw-w64-clang-aarch64-mdcat
@@ -261,3 +230,12 @@
     - cinerea0@protonmail.com
   licenses:
     - MPL-2.0
+- repo: wikidata
+  srcname: Q107028412
+  visiblename: mdcat
+  version: 2.7.1
+  origversion: null
+  status: outdated
+  summary: cat for Markdown
+  licenses:
+    - Mozilla Public License, version 2.0
