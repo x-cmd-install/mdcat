@@ -20,8 +20,8 @@
     - mdcat
     - mdcat-debuginfo
   visiblename: mdcat
-  version: 2.19.0
-  origversion: 2.19.0-alt1
+  version: 2.20.0
+  origversion: 2.20.0-alt1
   status: newest
   summary: cat for markdown
   maintainers:
@@ -36,7 +36,7 @@
   visiblename: mdcat
   version: 2.19.0
   origversion: 2.19.0-1
-  status: newest
+  status: outdated
   summary: Sophisticated Markdown rendering for the terminal
   maintainers:
     - andreas_baumann@aur
@@ -46,8 +46,8 @@
   srcname: mdcat-bin
   binname: mdcat-bin
   visiblename: mdcat-bin
-  version: 2.19.0
-  origversion: 2.19.0-1
+  version: 2.20.0
+  origversion: 2.20.0-1
   status: newest
   summary: Fancy 'cat' for Markdown
   maintainers:
@@ -76,7 +76,7 @@
 - repo: homebrew
   srcname: mdcat
   visiblename: mdcat
-  version: 2.19.0
+  version: 2.20.0
   origversion: null
   status: newest
   summary: Show markdown documents on text terminals
@@ -91,7 +91,7 @@
   srcname: textproc/mdcat
   binname: mdcat
   visiblename: mdcat
-  version: 2.19.0
+  version: 2.20.0
   origversion: null
   status: newest
   summary: cat for markdown
@@ -107,7 +107,7 @@
   visiblename: mingw-w64-clang-x86_64-mdcat
   version: 2.19.0
   origversion: 2.19.0-1
-  status: newest
+  status: outdated
   summary: Fancy cat for Markdown (mingw-w64)
   licenses:
     - spdx:MPL-2.0
@@ -117,7 +117,7 @@
   visiblename: mingw-w64-clang-aarch64-mdcat
   version: 2.19.0
   origversion: 2.19.0-1
-  status: newest
+  status: outdated
   summary: Fancy cat for Markdown (mingw-w64)
   licenses:
     - spdx:MPL-2.0
@@ -127,7 +127,7 @@
   visiblename: mingw-w64-ucrt-x86_64-mdcat
   version: 2.19.0
   origversion: 2.19.0-1
-  status: newest
+  status: outdated
   summary: Fancy cat for Markdown (mingw-w64)
   licenses:
     - spdx:MPL-2.0
@@ -191,7 +191,7 @@
   visiblename: mdcat
   version: 2.19.0
   origversion: null
-  status: newest
+  status: outdated
   summary: cat for markdown
   maintainers:
     - sandro.jaeckel@gmail.com
@@ -211,7 +211,7 @@
   srcname: mdcat
   binname: mdcat
   visiblename: mdcat
-  version: 2.19.0
+  version: 2.20.0
   origversion: null
   status: newest
   summary: 'Fancy cat for Markdown: syntax highlighting, images, math, and Mermaid diagrams in your terminal'
@@ -224,7 +224,7 @@
   visiblename: mdcat
   version: 2.19.0
   origversion: 2.19.0_1
-  status: newest
+  status: outdated
   summary: Cat for markdown
   maintainers:
     - cinerea0@protonmail.com
