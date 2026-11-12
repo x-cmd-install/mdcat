@@ -1,3 +1,10 @@
+- repo: homebrew
+  srcname: mdcat
+  visiblename: mdcat
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Show markdown documents on text terminals
 - repo: alt_p11
   srcname: mdcat
   binnames:
@@ -34,9 +41,9 @@
   srcname: mdcat
   binname: mdcat
   visiblename: mdcat
-  version: 2.19.0
-  origversion: 2.19.0-1
-  status: outdated
+  version: 2.20.0
+  origversion: 2.20.0-1
+  status: newest
   summary: Sophisticated Markdown rendering for the terminal
   maintainers:
     - andreas_baumann@aur
@@ -79,13 +86,6 @@
   version: 2.20.0
   origversion: null
   status: newest
-  summary: Show markdown documents on text terminals
-- repo: homebrew
-  srcname: mdcat
-  visiblename: mdcat
-  version: HEAD
-  origversion: null
-  status: rolling
   summary: Show markdown documents on text terminals
 - repo: macports
   srcname: textproc/mdcat
