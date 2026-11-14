@@ -40,7 +40,7 @@ Total: **5,006** lines of code across **40** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 2,410 · **Forks**: 106 · **Open issues**: 127 · **Contributors**: 22
+- **Stars**: 2,411 · **Forks**: 106 · **Open issues**: 127 · **Contributors**: 22
 
 ## Totals (cumulative)
 
@@ -50,12 +50,12 @@ Total: **5,006** lines of code across **40** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-14 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-14 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-15 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-17 | 0 | 0 | 0 | 0 | 0 | 1 |
-| 360d | 2025-11-18 | 0 | 0 | 0 | 0 | 0 | 1 |
-| last720d | 2024-11-23 | 3 | 5 | 0 | 7 | 0 | 35 |
+| 30d | 2026-10-15 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-15 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-16 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-18 | 0 | 0 | 0 | 0 | 0 | 1 |
+| 360d | 2025-11-19 | 0 | 0 | 0 | 0 | 0 | 1 |
+| last720d | 2024-11-24 | 3 | 3 | 0 | 6 | 0 | 35 |
 
 ## Release assets
 
@@ -67,11 +67,11 @@ Total: **5,006** lines of code across **40** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **22** distros on [repology.org](https://repology.org/project/mdcat). **6** are ✅ on the latest upstream release, **15** are ⚠️ on an older version.
+Reported by **22** distros on [repology.org](https://repology.org/project/mdcat). **3** are ✅ on the latest upstream release, **18** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Homebrew | `HEAD` | 🔄 rolling |
+| Homebrew | `2.20.1` | ✅ latest |
 | Nix unstable | `2.19.0` | ⚠️ outdated |
 | Void | `2.19.0` | ⚠️ outdated |
 
@@ -84,4 +84,4 @@ Install metadata for mdcat lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261113.yml` · 2026-11-13T08:01:36Z._
+_Snapshot: `data/card/261114.yml` · 2026-11-14T07:51:58Z._
