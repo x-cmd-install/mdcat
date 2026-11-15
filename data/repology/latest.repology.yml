@@ -34,9 +34,9 @@
   srcname: mdcat
   binname: mdcat
   visiblename: mdcat
-  version: 2.20.0
-  origversion: 2.20.0-1
-  status: outdated
+  version: 2.20.1
+  origversion: 2.20.1-1
+  status: newest
   summary: Sophisticated Markdown rendering for the terminal
   maintainers:
     - andreas_baumann@aur
@@ -91,9 +91,9 @@
   srcname: textproc/mdcat
   binname: mdcat
   visiblename: mdcat
-  version: 2.20.0
+  version: 2.20.1
   origversion: null
-  status: outdated
+  status: newest
   summary: cat for markdown
   maintainers:
     - herbygillot@github
@@ -105,9 +105,9 @@
   srcname: mingw-w64-mdcat
   binname: mingw-w64-clang-x86_64-mdcat
   visiblename: mingw-w64-clang-x86_64-mdcat
-  version: 2.19.0
-  origversion: 2.19.0-1
-  status: outdated
+  version: 2.20.1
+  origversion: 2.20.1-1
+  status: newest
   summary: Fancy cat for Markdown (mingw-w64)
   licenses:
     - spdx:MPL-2.0
@@ -115,9 +115,9 @@
   srcname: mingw-w64-mdcat
   binname: mingw-w64-clang-aarch64-mdcat
   visiblename: mingw-w64-clang-aarch64-mdcat
-  version: 2.19.0
-  origversion: 2.19.0-1
-  status: outdated
+  version: 2.20.1
+  origversion: 2.20.1-1
+  status: newest
   summary: Fancy cat for Markdown (mingw-w64)
   licenses:
     - spdx:MPL-2.0
@@ -125,9 +125,9 @@
   srcname: mingw-w64-mdcat
   binname: mingw-w64-ucrt-x86_64-mdcat
   visiblename: mingw-w64-ucrt-x86_64-mdcat
-  version: 2.19.0
-  origversion: 2.19.0-1
-  status: outdated
+  version: 2.20.1
+  origversion: 2.20.1-1
+  status: newest
   summary: Fancy cat for Markdown (mingw-w64)
   licenses:
     - spdx:MPL-2.0
