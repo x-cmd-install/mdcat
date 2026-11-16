@@ -1,3 +1,15 @@
+- repo: freebsd
+  srcname: sysutils/mdcat
+  binname: mdcat
+  visiblename: sysutils/mdcat
+  version: 2.7.1
+  origversion: 2.7.1_17
+  status: outdated
+  summary: Cat for markdown
+  maintainers:
+    - dutra@freebsd.org
+  categories:
+    - sysutils
 - repo: alt_p11
   srcname: mdcat
   binnames:
@@ -61,32 +73,6 @@
   origversion: null
   status: outdated
   summary: A cat tool for markdown
-- repo: freebsd
-  srcname: sysutils/mdcat
-  binname: mdcat
-  visiblename: sysutils/mdcat
-  version: 2.7.1
-  origversion: 2.7.1_17
-  status: outdated
-  summary: Cat for markdown
-  maintainers:
-    - dutra@freebsd.org
-  categories:
-    - sysutils
-- repo: homebrew
-  srcname: mdcat
-  visiblename: mdcat
-  version: 2.20.1
-  origversion: null
-  status: newest
-  summary: Show markdown documents on text terminals
-- repo: homebrew
-  srcname: mdcat
-  visiblename: mdcat
-  version: HEAD
-  origversion: null
-  status: rolling
-  summary: Show markdown documents on text terminals
 - repo: macports
   srcname: textproc/mdcat
   binname: mdcat
@@ -189,7 +175,7 @@
 - repo: nix_unstable
   srcname: mdcat
   visiblename: mdcat
-  version: 2.19.0
+  version: 2.20.0
   origversion: null
   status: outdated
   summary: cat for markdown
@@ -239,3 +225,17 @@
   summary: cat for Markdown
   licenses:
     - Mozilla Public License, version 2.0
+- repo: homebrew
+  srcname: mdcat
+  visiblename: mdcat
+  version: 2.20.1
+  origversion: null
+  status: newest
+  summary: Show markdown documents on text terminals
+- repo: homebrew
+  srcname: mdcat
+  visiblename: mdcat
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Show markdown documents on text terminals
