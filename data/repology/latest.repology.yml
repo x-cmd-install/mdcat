@@ -1,3 +1,10 @@
+- repo: homebrew
+  srcname: mdcat
+  visiblename: mdcat
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Show markdown documents on text terminals
 - repo: alt_p11
   srcname: mdcat
   binnames:
@@ -20,8 +27,8 @@
     - mdcat
     - mdcat-debuginfo
   visiblename: mdcat
-  version: 2.20.0
-  origversion: 2.20.0-alt1
+  version: 2.20.1
+  origversion: 2.20.1-alt1
   status: outdated
   summary: cat for markdown
   maintainers:
@@ -36,7 +43,7 @@
   visiblename: mdcat
   version: 2.20.1
   origversion: 2.20.1-1
-  status: newest
+  status: outdated
   summary: Sophisticated Markdown rendering for the terminal
   maintainers:
     - andreas_baumann@aur
@@ -48,7 +55,7 @@
   visiblename: mdcat-bin
   version: 2.20.1
   origversion: 2.20.1-1
-  status: newest
+  status: outdated
   summary: Fancy 'cat' for Markdown
   maintainers:
     - dominiquini@aur
@@ -76,16 +83,9 @@
 - repo: homebrew
   srcname: mdcat
   visiblename: mdcat
-  version: 2.20.1
+  version: 2.20.2
   origversion: null
   status: newest
-  summary: Show markdown documents on text terminals
-- repo: homebrew
-  srcname: mdcat
-  visiblename: mdcat
-  version: HEAD
-  origversion: null
-  status: rolling
   summary: Show markdown documents on text terminals
 - repo: macports
   srcname: textproc/mdcat
@@ -93,7 +93,7 @@
   visiblename: mdcat
   version: 2.20.1
   origversion: null
-  status: newest
+  status: outdated
   summary: cat for markdown
   maintainers:
     - herbygillot@github
@@ -107,7 +107,7 @@
   visiblename: mingw-w64-clang-x86_64-mdcat
   version: 2.20.1
   origversion: 2.20.1-1
-  status: newest
+  status: outdated
   summary: Fancy cat for Markdown (mingw-w64)
   licenses:
     - spdx:MPL-2.0
@@ -117,7 +117,7 @@
   visiblename: mingw-w64-clang-aarch64-mdcat
   version: 2.20.1
   origversion: 2.20.1-1
-  status: newest
+  status: outdated
   summary: Fancy cat for Markdown (mingw-w64)
   licenses:
     - spdx:MPL-2.0
@@ -127,7 +127,7 @@
   visiblename: mingw-w64-ucrt-x86_64-mdcat
   version: 2.20.1
   origversion: 2.20.1-1
-  status: newest
+  status: outdated
   summary: Fancy cat for Markdown (mingw-w64)
   licenses:
     - spdx:MPL-2.0
@@ -213,7 +213,7 @@
   visiblename: mdcat
   version: 2.20.1
   origversion: null
-  status: newest
+  status: outdated
   summary: 'Fancy cat for Markdown: syntax highlighting, images, math, and Mermaid diagrams in your terminal'
   maintainers:
     - gouranga.das.khulna@gmail.com
