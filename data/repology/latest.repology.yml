@@ -1,10 +1,14 @@
-- repo: homebrew
+- repo: nix_stable_24_11
   srcname: mdcat
   visiblename: mdcat
-  version: HEAD
+  version: 2.6.1
   origversion: null
-  status: rolling
-  summary: Show markdown documents on text terminals
+  status: outdated
+  summary: cat for markdown
+  maintainers:
+    - sandro.jaeckel@gmail.com
+  licenses:
+    - MPL-2.0
 - repo: alt_p11
   srcname: mdcat
   binnames:
@@ -21,6 +25,17 @@
     - MPL-2.0
   categories:
     - Text tools
+- repo: nix_stable_24_05
+  srcname: mdcat
+  visiblename: mdcat
+  version: 2.1.2
+  origversion: null
+  status: outdated
+  summary: cat for markdown
+  maintainers:
+    - sandro.jaeckel@gmail.com
+  licenses:
+    - MPL-2.0
 - repo: altsisyphus
   srcname: mdcat
   binnames:
@@ -53,9 +68,9 @@
   srcname: mdcat-bin
   binname: mdcat-bin
   visiblename: mdcat-bin
-  version: 2.20.1
-  origversion: 2.20.1-1
-  status: outdated
+  version: 2.20.2
+  origversion: 2.20.2-1
+  status: newest
   summary: Fancy 'cat' for Markdown
   maintainers:
     - dominiquini@aur
@@ -87,13 +102,20 @@
   origversion: null
   status: newest
   summary: Show markdown documents on text terminals
+- repo: homebrew
+  srcname: mdcat
+  visiblename: mdcat
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Show markdown documents on text terminals
 - repo: macports
   srcname: textproc/mdcat
   binname: mdcat
   visiblename: mdcat
-  version: 2.20.1
+  version: 2.20.2
   origversion: null
-  status: outdated
+  status: newest
   summary: cat for markdown
   maintainers:
     - herbygillot@github
@@ -131,28 +153,6 @@
   summary: Fancy cat for Markdown (mingw-w64)
   licenses:
     - spdx:MPL-2.0
-- repo: nix_stable_24_05
-  srcname: mdcat
-  visiblename: mdcat
-  version: 2.1.2
-  origversion: null
-  status: outdated
-  summary: cat for markdown
-  maintainers:
-    - sandro.jaeckel@gmail.com
-  licenses:
-    - MPL-2.0
-- repo: nix_stable_24_11
-  srcname: mdcat
-  visiblename: mdcat
-  version: 2.6.1
-  origversion: null
-  status: outdated
-  summary: cat for markdown
-  maintainers:
-    - sandro.jaeckel@gmail.com
-  licenses:
-    - MPL-2.0
 - repo: nix_stable_25_05
   srcname: mdcat
   visiblename: mdcat
@@ -211,9 +211,9 @@
   srcname: mdcat
   binname: mdcat
   visiblename: mdcat
-  version: 2.20.1
+  version: 2.20.2
   origversion: null
-  status: outdated
+  status: newest
   summary: 'Fancy cat for Markdown: syntax highlighting, images, math, and Mermaid diagrams in your terminal'
   maintainers:
     - gouranga.das.khulna@gmail.com
