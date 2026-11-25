@@ -40,7 +40,7 @@ Total: **5,006** lines of code across **40** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 2,410 · **Forks**: 106 · **Open issues**: 127 · **Contributors**: 22
+- **Stars**: 2,411 · **Forks**: 106 · **Open issues**: 127 · **Contributors**: 22
 
 ## Totals (cumulative)
 
@@ -50,12 +50,12 @@ Total: **5,006** lines of code across **40** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-25 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-26 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-28 | 0 | 0 | 0 | 0 | 0 | 1 |
-| 360d | 2025-11-29 | 0 | 0 | 0 | 0 | 0 | 1 |
-| last720d | 2024-12-04 | 1 | 2 | 0 | 4 | 0 | 7 |
+| 30d | 2026-10-26 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-26 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-27 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-29 | 0 | 0 | 0 | 0 | 0 | 1 |
+| 360d | 2025-11-30 | 0 | 0 | 0 | 0 | 0 | 1 |
+| last720d | 2024-12-05 | 1 | 2 | 0 | 4 | 0 | 7 |
 
 ## Release assets
 
@@ -64,16 +64,6 @@ Total: **5,006** lines of code across **40** files in the top 5 languages.
 | [B2SUMS.txt](https://github.com/swsnr/mdcat/releases/download/mdcat-2.7.1/B2SUMS.txt) | 343 B | `other` |
 | [mdcat-2.7.1-x86_64-pc-windows-msvc.zip](https://github.com/swsnr/mdcat/releases/download/mdcat-2.7.1/mdcat-2.7.1-x86_64-pc-windows-msvc.zip) | 4.1 MiB | `native/win/x64` |
 | [mdcat-2.7.1-x86_64-unknown-linux-gnu.tar.gz](https://github.com/swsnr/mdcat/releases/download/mdcat-2.7.1/mdcat-2.7.1-x86_64-unknown-linux-gnu.tar.gz) | 4.5 MiB | `native/linux/x64/glibc` |
-
-## Distribution status
-
-Reported by **22** distros on [repology.org](https://repology.org/project/mdcat). **8** are ✅ on the latest upstream release, **13** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `2.20.2` | ✅ latest |
-| Nix unstable | `2.20.0` | ⚠️ outdated |
-| Void | `2.19.0` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -84,4 +74,4 @@ Install metadata for mdcat lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T11:33:37Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T09:36:55Z._
